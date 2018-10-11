@@ -19,11 +19,13 @@ List of Features:
 Group Member GitHub : https://github.com/AdamGuerin
 
 
+<br/><br/>
 <b>How to run Too Many Daves?</b><br/>
 ▶ Extract all files<br/>
 ▶ Copy TooManyDave.dat to TooManyDaves/bin/Debug or copy it to the installation directory of TooManyDaves.exe folder<br/>
 ▶ Copy RandomBabyNames.dat to TooManyDaves/bin/Debug or copy it to the installation directory of TooManyDaves.exe folder<br/>
 ▶ Run programm
+<br/><br/>
 
 
 Run Program
